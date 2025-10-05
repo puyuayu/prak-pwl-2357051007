@@ -2,6 +2,7 @@
 
 use Illuminate\Support\Facades\Route;
 use App\Http\controllers\ProfileController;
+use App\Http\controllers\UserController;
 /*
 |--------------------------------------------------------------------------
 | Web Routes

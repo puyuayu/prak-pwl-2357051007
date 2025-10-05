@@ -19,4 +19,5 @@ class Kelas extends Model
     public function getKelas(){
         return $this->all();
     }
+
 }
